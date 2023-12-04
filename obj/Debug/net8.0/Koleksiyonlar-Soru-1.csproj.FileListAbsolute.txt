@@ -1,0 +1,14 @@
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.AssemblyInfo.cs
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+/Users/sergul/Koleksiyonlar-Soru-1/bin/Debug/net8.0/Koleksiyonlar-Soru-1
+/Users/sergul/Koleksiyonlar-Soru-1/bin/Debug/net8.0/Koleksiyonlar-Soru-1.deps.json
+/Users/sergul/Koleksiyonlar-Soru-1/bin/Debug/net8.0/Koleksiyonlar-Soru-1.runtimeconfig.json
+/Users/sergul/Koleksiyonlar-Soru-1/bin/Debug/net8.0/Koleksiyonlar-Soru-1.dll
+/Users/sergul/Koleksiyonlar-Soru-1/bin/Debug/net8.0/Koleksiyonlar-Soru-1.pdb
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.dll
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/refint/Koleksiyonlar-Soru-1.dll
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.pdb
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/Koleksiyonlar-Soru-1.genruntimeconfig.cache
+/Users/sergul/Koleksiyonlar-Soru-1/obj/Debug/net8.0/ref/Koleksiyonlar-Soru-1.dll
